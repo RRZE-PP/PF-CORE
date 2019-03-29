@@ -257,6 +257,7 @@ For creation of the installer:
 		<copy todir="${build.dir}">
 			<fileset dir="${etc.dir}" />
 			<fileset file="${main.src.dir}/PowerFolder-LICENSE.txt" />
+			<fileset dir="static" />
 		</copy>
 		<copy todir="${build.dir}">
 			<fileset dir="${skins.src.dir}">
