@@ -1,0 +1,1 @@
+If you own a legal copy of the PRO client you can add some class files from the PRO-jar to this folder to include them in the OpenSource version for testing.
