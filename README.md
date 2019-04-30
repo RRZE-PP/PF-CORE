@@ -12,7 +12,7 @@ OpenJDK 64-Bit Server VM (build 25.191-b12, mixed mode)
 
 How to download, build and run the open source client:
 ```
- apt-get install ant
+ apt-get install ant git
  git clone git@github.com:RRZE-PP/PF-CORE.git
  cd PF-CORE
  ant
