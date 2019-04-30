@@ -44,7 +44,7 @@ jar xf /usr/share/FAUbox/FAUbox.jar @./pro-files.lst
 
 ## Running the PRO client
 
-After adding the jar files you need to rebuild the project before to enable the pro features
+After adding the jar files you need to rebuild the project to enable the pro features
 ```
  ant
  java -jar dist/PowerFolder.jar
